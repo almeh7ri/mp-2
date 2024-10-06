@@ -1,0 +1,12 @@
+header {
+    width: 80vw;
+    margin: 0 auto;
+    border: 5px #050320 solid;
+    background-color: #242452;
+    color: white;
+}
+
+header h1 {
+    text-align: center;
+    font: Bold calc(3vw + 5px) "Courier New";
+}
